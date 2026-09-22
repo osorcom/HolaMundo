@@ -8,6 +8,10 @@ class Suma {
   }
   
   public static Double suma(Double a, Double b){
+      return a+b;
+  }
+
+  public static String suma(String a, String b){
     return a+b;
   }
 }
